@@ -1,2 +1,3 @@
 # hello-world
-tutorial to use
+just flow the tutorial to startup!
+i'm YeSire-Lincoln.
